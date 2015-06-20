@@ -1,4 +1,4 @@
-== Caption App
+# Caption App
 
 
 * Ruby version
